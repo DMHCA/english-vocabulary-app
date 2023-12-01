@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Maven
+target/
+!/target/classes/
+!/target/maven-archiver/
+!/target/maven-status/
+!/target/generated-sources/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.iwb
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
